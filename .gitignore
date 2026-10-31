@@ -1,0 +1,14 @@
+# Compiled programs
+*.exe
+*.out
+expense-manager
+expense-manager.exe
+
+# Local financial data (do not upload personal records)
+transactions.txt
+budget.txt
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
